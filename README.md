@@ -8,7 +8,7 @@
 # Colab用リンク
 
 ## イントロダクション
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/wwwcojp/blob/main/Introduction-japanese.ipynb>)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/wwwcojp/openprompt-notebooks-japanese/blob/main/Introduction-japanese.ipynb)
 
 ## チュートリアル：Livedoorニュースコーパス記事分類
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/wwwcojp/blob/main/Tutorial-Classification-japanese.ipynb>)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/wwwcojp/openprompt-notebooks-japanese/blob/main/Tutorial-Classification-japanese.ipynb)
